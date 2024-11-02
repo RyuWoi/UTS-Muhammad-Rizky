@@ -1,0 +1,42 @@
+.sidebar {
+  min-height: 100vh;
+}
+.nav-link:hover {
+  background-color: green;
+}
+
+.jumbotron1 {
+  height: 200px;
+}
+
+.card {
+  width: 11rem;
+}
+.card-text {
+  font-weight: bold;
+}
+.card-body-icon {
+  font-size: 20px;
+}
+
+.sidebar-profile {
+  text-align: center; /* Pusatkan elemen */
+  padding: 20px; /* Tambahkan padding agar tidak terlalu mepet */
+  border-bottom: 1px solid #ddd; /* Garis bawah pemisah */
+}
+
+.profile-logo {
+  width: 80px; /* Atur ukuran logo */
+  height: 80px; /* Ukuran yang sama untuk membuatnya bulat */
+  border-radius: 50%; /* Bikin gambar menjadi bulat */
+  margin-bottom: 10px; /* Spasi antara logo dan teks */
+}
+
+.sidebar-profile p {
+  margin: 0; /* Hilangkan margin */
+  font-weight: bold; /* Teks tebal */
+}
+
+.sidebar-profile small {
+  color: #888; /* Warna teks tambahan */
+}
